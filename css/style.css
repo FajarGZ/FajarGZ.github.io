@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+html {
+    font-family: 'Crimson Pro', serif;
+}
+
 .container {
     background-color: #51050F;
     max-width: 100%;
@@ -30,6 +34,7 @@
     color: #F78812;
     font-weight: 900;
     margin: 10px;
+    
 }
 
 .profile > p {
@@ -49,7 +54,7 @@
 
 .social > a {
     text-decoration: none;
-    color: #F78812;
+    color: #ffffff;
     background-color: #E02401;
     border-radius: 10px;
     padding: 10px;
